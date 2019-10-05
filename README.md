@@ -9,3 +9,4 @@ To launch Panda in Gazebo: `roslaunch panda_simulation simulation.launch`
 
 ## Reference
 * https://erdalpekel.de/?p=55
+* https://github.com/frankaemika/franka_ros/issues/44
